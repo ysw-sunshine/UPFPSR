@@ -1,6 +1,9 @@
 # UPFPSR
 A Ubiquitylation Predictor for Plant through Combining Sequence Information and Random Forest
 
+## Overview
+In this study, we propose a novel predictor, named UPFPSR, for predicting lysine ubiquitylation sites of plant. UPFPSR is developed using multiple physicochemical properties of amino acids and sequence-based statistical information. In order to find a suitable classification algorithm, four traditional algorithms and two deep learning networks are compared, and the random forest with superior performance is selected ultimately. 
+
 ## Requirements
 * Python>=3.6
 * Matlab2018a
