@@ -31,7 +31,7 @@ through Combining Sequence Information and Random Forest”
      ```
      UPFPSR_pred.m
      ```         
-     % This matlab code proposes a novel computational model namely UPFPSR to predict lysine ubiquitylation sites of plant effectively.
+     % This matlab code proposes a novel computational model namely UPFPSR to predict lysine ubiquitylation sites of plant effectively.  
      % Users can test unknown plant ubiquitylation sites with the code to see the prediction.
   
 
