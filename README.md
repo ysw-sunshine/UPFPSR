@@ -12,9 +12,12 @@ In this study, we propose a novel predictor, named UPFPSR, for predicting lysine
 The code is the implementation of UPFPSR method “A Ubiquitylation Predictor for Plant 
 through Combining Sequence Information and Random Forest”  
 
-  1. The dataset file contains the plant ubiquitination protein sequences, the training dataset,
+  1. Dataset
+     The dataset file contains the plant ubiquitination protein sequences, the training dataset,
      the indepedent data set and the code of data processing.
-  2. The feature extraction file contains the code of DBPB,EGAAC,PseAAC and PWAA.
-  3. The classifier file contains the code of UPFPSR method used in our study. 
+  2. Feature
+     The feature extraction file contains the code of DBPB,EGAAC,PseAAC and PWAA.
+  4. Classifier
+     The classifier file contains the code of UPFPSR method used in our study. 
 
   
