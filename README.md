@@ -18,6 +18,7 @@ through Combining Sequence Information and Random Forest”
   2. Feature  
      The feature extraction file contains four sequence feature extraction methods, namely DBPB (di-amino acid bi-profile Bayes), EGAAC (enhanced grouped amino acid composition),      Pse-AAC (pseudo-amino acid composition) and PWAA (position-weight amino acid composition).
   4. Classifier  
-     The classifier file contains the code of UPFPSR method used in our study. 
+     The classifier file contains the code of UPFPSR method used in our study.  
+     Deep learning algorithms and several extensively used traditional machine learning algorithms were compared during model construction, and random forest (RF) is the                chosen classification algorithm to establish our lysine ubiquitination site prediction model UPFPSR.
 
   
